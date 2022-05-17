@@ -357,6 +357,7 @@
 #define LV_FONT_UNSCII_8  1
 #define LV_FONT_UNSCII_16 1
 
+
 /*Optionally declare custom fonts here.
  *You can use these fonts as default font too and they will be available globally.
  *E.g. #define LV_FONT_CUSTOM_DECLARE   LV_FONT_DECLARE(my_font_1) LV_FONT_DECLARE(my_font_2)*/
